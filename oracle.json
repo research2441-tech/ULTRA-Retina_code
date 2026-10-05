@@ -1,0 +1,12 @@
+{
+ "test_landmarks_12m": 1047,
+ "oracle_stage_type": 0.7539732889715972,
+ "oracle_latent": 0.9227640557153329,
+ "ridge_rmse_latent": 0.4226576648144704,
+ "mean_risk_ULTRA_test": 0.2762691378593445,
+ "observed_rate_test": 0.2636103151862464,
+ "mean_risk_ULTRA_extD": 0.32302677631378174,
+ "observed_rate_extD": 0.3102409638554217,
+ "mean_risk_ULTRA_extE": 0.28978443145751953,
+ "observed_rate_extE": 0.3076923076923077
+}
